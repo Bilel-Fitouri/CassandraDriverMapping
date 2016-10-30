@@ -7,10 +7,7 @@ import java.util.Date;
 import java.util.Map;
 
 /**
- * The GasIndex entity interface.
- *
- * @author b.ka
- *
+ * Created by bfitouri on 28/10/16.
  */
 @Table(name = "sensor_index")
 public class SensorIndex {

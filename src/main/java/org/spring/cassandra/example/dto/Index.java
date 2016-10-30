@@ -6,10 +6,7 @@ import org.joda.time.DateTime;
 import java.util.Date;
 
 /**
- * The GasIndex entity interface.
- *
- * @author b.ka
- *
+ * Created by bfitouri on 28/10/16.
  */
 @Table(name = "gas_index")
 public class Index {
